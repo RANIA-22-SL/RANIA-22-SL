@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RANIA-22-SL
-- 👀 I’m interested in Data Analysticis and Business intelligence
+- 👀 I’m interested in Data Analysis and Business intelligence
 - 🌱 I’m currently learning Python and the power BI tool
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
